@@ -4,7 +4,7 @@
 
 
 ### Results -
-##### Initially, our model had an R-Square of 0.593. After running the EDA with quantile plot, fitted vs. residual plot and leverage plot, we were able to identify the outliers and improve our model to 0.743 R-Square.
+##### Initially, our model had an R-Square of 0.593. After running an EDA with quantile plot, fitted vs. residual plot and leverage plot, we were able to identify the outliers and improve our model to 0.743 R-Square.
 
 ### Project Findings:
 [Boston Housing Price Prediction](https://github.com/joaobecker/boston_housing_machine_learning/blob/master/Mini_Project_Linear_Regression.ipynb)
